@@ -7,7 +7,7 @@ public class Main {
         Cat cat = new Cat();
         cat.setName("AICat");
         cat.setBreeds("Persian");
-        cat.setWeight(3);
+        cat.setWeight(3.2);
 
         System.out.printf("고양이 이름 : %s\n", cat.getName());
         System.out.printf("고양이 품종 : %s\n", cat.getBreeds());
